@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+
+    <style>
+
+        #comp{
+
+            background-color:  rgba(159, 102, 28, 0.311);
+      
+        }
+
+        #main{
+
+            margin: 10px;
+        }
+
+        #work{
+
+            margin: 30px;
+        }
+
+    </style>
+</head>
+<body id="comp">
+  
+
+    <div  id="main">
+
+    <h1>Kishlay Kunal</h1>
+
+    <br>
+
+    <label for="email">Contact: </label>
+    <a href="mailto:kunalk2630@gmail.com" id="email">kunalk2630@gmail.com</a>
+
+    <br>
+    <br>
+
+    <label for="linkedn">Linkedln: </label>
+    <a href="https://www.linkedin.com/in/kishlay-kunal-85195922a/"  target="_blank">linkedin.com/in/kishlay-kunal</a>
+
+
+    <br>
+    <br>
+
+
+    <label for="github">Github: </label>
+    <a href="https://github.com/kunal2630"  target="_blank">github.com/kunal2630</a>
+
+
+    <br>
+    <br>
+  
+
+    
+    <table>
+
+        <tr>
+
+            <td>
+                
+                <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Profile Picture" width="100" height="100">
+            
+            </td>
+
+            <td>
+                
+                <p>  Experienced software engineer with a proven track record in designing and developing robust software applications. Proficient in multiple programming languages and skilled in full software development lifecycle. Strong problem-solving abilities and a collaborative approach to deliver high-quality solutions on time </p>
+
+            </td>
+
+
+        </tr>
+
+
+    </table>
+
+
+    <div>
+      
+        <h1>Education</h1>
+
+
+        <ul>
+           
+            <li>Bachelor of Technology in Computer Science,Chandigarh University</li>
+            <li>Senior Secondary,Sarvodaya Sr. Secondar School</li>
+
+        </ul>
+
+
+    </div>
+
+    <div >
+
+      <h1>Work Experience </h1>
+
+      <div id="work">
+
+
+        <h4>Frontend Developer,Wictronix,India</h4>
+        
+        
+        <h5>June 2022-July 2022</h5>
+    
+
+        <ul>
+            <li>Worked as a intern for 1 month</li>
+            <li>Worked on Gym and Coffee website </li>
+        </ul>
+
+        <h4>Managed Network Expert,Chegg,India</h4>
+        
+        
+        <h5>March 2022-Present</h5>
+    
+
+        <ul>
+            <li>Used Critical thinking to break down problems,evaluates solutions and make decisions</li>
+            <li>Quickly learned new skills and applied them to daily tasks,improving efficiency and productivity </li>
+        </ul>
+
+
+    </div>
+     
+
+    </div>
+
+
+
+    <div id="projects">
+
+        <h1>Projects</h1>
+
+        <ul>
+
+        <li><h4>Modern Website</h4></li>
+
+      
+            <h5>TECH STACK:REACT JS,CSS,JS</h5>
+            <p>Hosted link:
+            <a href="" alt="LOADING.........">example.com/website</a></p>
+        
+
+        <li><h4>Portfolio Website</h4></li>
+
+        <h5>TECH STACK:REACT JS</h5>
+        <p>Hosted link:
+            <a href="" alt="LOADING.........">example.com/portfolio</a></p>
+        
+
+    </ul>
+
+
+
+
+
+
+    </div>
+
+
+    <div id="skills">
+
+        <h1>SKILLS</h1>
+
+        <ul>
+
+            <li><p>Data Structures And Algorithms</p></li>
+            <li><p>Operating System </p></li>
+            <li><p>Database Management System </p></li>
+            <li><p>Object Oriented Programming </p></li>
+            
+            <li>
+
+                <p> <a href="https://leetcode.com/kunal2630/">Leetcode </a> -400+ Questions</p>
+            </li>
+            <li>
+
+                <p> <a href="https://auth.geeksforgeeks.org/user/kunalk2630/practice/">Gfg </a> -150+ Questions</p>
+
+            </li>
+            <li>
+
+                <p> <a href="https://codeforces.com/profile/kunal2630">Codeforces </a> -50+ Questions</p>
+
+            </li>
+          
+        </ul>
+
+
+    </div>
+
+
+</div>
+    
+    
+    
+</body>
+</html>
