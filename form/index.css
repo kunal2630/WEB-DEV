@@ -1,0 +1,45 @@
+body{
+
+  background-color: #3498db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:90vh;
+}
+
+#main{
+
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+    
+
+}
+
+h2{
+    margin: 0px 0px 10px 0px ; 
+}
+
+input{
+     
+   width: 200px;
+   margin: 10px 0px;
+   padding: 10px;
+  
+}
+
+#button{
+
+    width: 222px;
+    background-color: #3498db;
+    border: 0px;
+    color: white;
+}
+
+.error{
+
+    text-align: left;
+    margin: 0px;
+    color: red;
+}
