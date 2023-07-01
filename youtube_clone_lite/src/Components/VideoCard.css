@@ -1,0 +1,56 @@
+.videocard{
+
+
+    padding: 5px;
+    
+
+   
+}
+
+.videocard__thumbnail > img{
+
+    height: 193px;
+    width: 343px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.videocard__information{
+
+    display: flex;
+   
+
+}
+
+.videocard__channenlogo{
+
+    padding: 10px 0px;
+    padding-right: 10px;
+}
+
+.videocard__information__text{
+
+    padding: 10px 50px 0px 0px;
+    
+
+
+}
+
+.videocard__title{
+
+    display: flex;
+    width: 250px;
+    padding-bottom: 5px;
+}
+
+.videocard__title > h4{
+
+    font-weight: 400;
+}
+
+.videocard__information__views{
+
+   color:#606060;
+}
+
+

@@ -1,0 +1,14 @@
+.siderbar{
+
+    flex: 0.15;
+    margin-top: 15px;
+    
+}
+
+.siderbar >hr{
+
+    margin: 10px;
+    height: 1px;
+   background-color: lightgray;
+   border: 0;
+}
